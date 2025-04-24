@@ -44,8 +44,10 @@ Using the `Supply_Chain_Shipment_Pricing_Dataset.csv`, a two-sample t-test was c
 3. Run each section to replicate the statistical outputs.
 
 ## Author
-
-
+Maxwell Parsons
+Business Analytics & Data Science
+NC State University
+Class of Fall 2025
 
 ---
 
