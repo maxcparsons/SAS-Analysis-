@@ -45,9 +45,7 @@ Using the `Supply_Chain_Shipment_Pricing_Dataset.csv`, a two-sample t-test was c
 
 ## Author
 
-Maxwell (Max) Parsons  
-Business Analytics Student at North Carolina State University  
-Email: [your email here]
+
 
 ---
 
